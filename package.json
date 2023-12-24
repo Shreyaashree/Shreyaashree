@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Shreyaashree.github.io/Shreyaashree",
+  "homepage": "https://shreyaashree.github.io/Shreyaashree",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Shreyaashree.github.io/Shreyaashree'",
+    "build-gh": "parcel build --public-url 'https://shreyaashree.github.io/Shreyaashree'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
